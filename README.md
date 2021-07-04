@@ -1,7 +1,7 @@
 # Face-Fecognition-Distance-
 Face recognition using distance concept of IOT
 
-Python Cv libies used
+Python Computer Vision libraries used:
 1. openCV
 2. numpy
 3. face_recognition
