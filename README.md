@@ -1,4 +1,5 @@
-# Face-Fecognition-Distance-
+# Face-Fecognition
+
 Face recognition using distance concept of IOT
 
 Python Computer Vision libraries used:
