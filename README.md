@@ -10,7 +10,7 @@ Used two images one is of my sister and other of me.
 1. Preeti
 2. Priya
 
-Trying to check that how accurately face recognition lubrary works on sisters faces. I got good results, even wearing specs it can easily recognise me..
+Trying to check that how accurately face recognition library works on similar faces. I got good results, even wearing specs it can easily recognise me..
 
 Ta-da!
 
